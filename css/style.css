@@ -1,0 +1,13 @@
+body{
+	margin:0;
+	padding:0;
+	background: black;
+	color:white;
+	font-family: Arial
+}
+#conteudo{
+	position: absolute;
+	top:30%;
+	left:40%;
+	font-size: 2em
+}
